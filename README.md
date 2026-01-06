@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Afnan 👋  
 
-<!--
-**Afnan-p/Afnan-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🌱 Passionate about building real-world web applications  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 🚀 Projects
+- **Smart Expense Tracker**  
+  MERN stack app with charts, budget alerts, and expense categorization  
+
+- **Fragranzia**  
+  Fragrance e-commerce website with modern UI  
+
+- **EduPay**  
+  Education payment & management platform  
+
+---
+
+### 📊 GitHub Focus
+- Daily coding & learning  
+- Clean code & best practices  
+- Real project-based development  
+
+---
+
+### 📫 Connect with Me
+- GitHub: https://github.com/Afnan-p  
+
+⭐ Feel free to explore my repositories and projects!
