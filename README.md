@@ -21,8 +21,6 @@
 - **Fragranzia**  
   Fragrance e-commerce website with modern UI  
 
-- **EduPay**  
-  Education payment & management platform  
 
 ---
 
