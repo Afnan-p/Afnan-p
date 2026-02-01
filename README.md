@@ -19,10 +19,19 @@
   MERN stack app with charts, budget alerts, and expense categorization  
 
 - **Fragranzia**  
-  Fragrance e-commerce website with modern UI  
+  Fragrance e-commerce website with modern UI
+  
+- **Institute Schedule Management System**
+  scheduling system with drag-and-drop class allocation, teacher availability
+   management,and a clean, professional dashboard UI for educational institutes.
 
+- **Secure Authentication System**
+   JWT-based login/signup, password hashing, and protected routes.
+  
+- **Memory Game**
+  Memory Card Matching Game using HTML, CSS, and JavaScript
+   to sharpen logical thinking and UI/UX skills.
 
----
 
 ### 📊 GitHub Focus
 - Daily coding & learning  
