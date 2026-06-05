@@ -1,5 +1,9 @@
 # Hi 👋, I'm Afnan
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+MERN+Developer;React+Developer;Building+Real+World+Projects&center=true&width=500&height=50">
+</p>
+
 🚀 Full Stack MERN Developer
 
 💻 Building Real-World Web Applications
