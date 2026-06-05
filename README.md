@@ -1,60 +1,129 @@
-# Hi 👋, I'm Afnan
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+MERN+Developer;React+Developer;Building+Real+World+Projects&center=true&width=500&height=50">
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:38d39f&height=200&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Afnan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20React%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://github.com/Afnan-p">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;React+Developer+%E2%9A%9B%EF%B8%8F;Building+Real-World+Applications+%F0%9F%8C%90;Open+Source+Enthusiast+%F0%9F%92%9A;Learning+Never+Stops+%F0%9F%93%96" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views + Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Afnan-p&label=Profile%20Views&color=58a6ff&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Afnan-p?label=Followers&style=flat-square&color=38d39f" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Afnan-p&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</div>
 
-## 🚀 About Me
+---
 
-- 💻 Full Stack MERN Developer
-- 🌱 Currently Learning Advanced MERN Stack
-- 🚀 Building Real-World Web Applications
-- 📍 Kerala, India
+## 🧑‍💻 About Me
 
-## 🛠 Tech Stack
+```javascript
+const afnan = {
+  name: "Afnan",
+  location: "Kerala, India 🇮🇳",
+  role: "Full Stack MERN Developer",
+  learning: ["Advanced MERN Stack", "System Design"],
+  building: "Real-World Web Applications 🚀",
+  funFact: "I turn coffee into code ☕→💻"
+};
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,bootstrap" />
-</p>
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afnan-p&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-p&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afnan-p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=38d39f&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
 
-## 🔥 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afnan-p&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=38d39f&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="60%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afnan-p&theme=tokyonight"/>
-</p>
+---
 
-## 🏆 Featured Projects
+## 🏆 GitHub Trophies
 
-- 🪑 Indian Furniture Mart
-- 🌸 Fragranzia
-- 🎓 Student Hub
-- 🛒 Kinki Bazar
-- 🏢 Atherea Agency
-- 📅 Schedule System
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Afnan-p&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| 🏷️ Project | 📝 Description | 🛠️ Tech |
+|---|---|---|
+| 🪑 **Indian Furniture Mart** | Full-stack e-commerce platform | React, Node, MongoDB |
+| 🌸 **Fragranzia** | Premium perfume store app | MERN Stack |
+| 🎓 **Student Hub** | Education management platform | React, Express |
+| 🛒 **Kinki Bazar** | Modern shopping experience | MERN Stack |
+| 🏢 **Atherea Agency** | Creative agency website | React, Node |
+| 📅 **Schedule System** | Smart task management tool | MERN Stack |
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afnan-p&bg_color=0d1117&color=58a6ff&line=38d39f&point=f78166&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<div align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afnan-p)
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afnan-p/Afnan-p/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afnan-p/Afnan-p/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Afnan-p/Afnan-p/output/github-snake-dark.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38d39f,50:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
