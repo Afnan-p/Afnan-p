@@ -1,51 +1,54 @@
-## Hi, I'm Afnan 👋  
+# Hi 👋, I'm Afnan
 
-💻 MERN Stack Developer  
-🌱 Passionate about building real-world web applications  
-📍 India  
+🚀 Full Stack MERN Developer
 
----
+💻 Building Real-World Web Applications
 
-### 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, VS Code  
+🌱 Currently Learning Advanced MERN Stack
+
+📍 Kerala, India
 
 ---
 
-### 🚀 Projects
-- **Smart Expense Tracker**  
-  MERN stack app with charts, budget alerts, and expense categorization  
+## 🛠 Tech Stack
 
-- **Fragranzia**  
-  Fragrance e-commerce website with modern UI
-  
-- **Institute Schedule Management System**
-  
-  drag-and-drop class allocation, teacher availabilitymanagement,
-  
-  and a clean, professional dashboard UI for educational institutes.
-
-- **Secure Authentication System**
-  
-  JWT-based login/signup, password hashing, and protected routes.
-  
-- **Memory Game**
-  
-  Memory Card Matching Game using HTML, CSS, and JavaScript
-  
-  to sharpen logical thinking and UI/UX skills.
-
-
-### 📊 GitHub Focus
-- Daily coding & learning  
-- Clean code & best practices  
-- Real project-based development  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-### 📫 Connect with Me
-- GitHub: https://github.com/Afnan-p  
+## 📊 GitHub Stats
 
-⭐ Feel free to explore my repositories and projects!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afnan-p&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-p&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+### 🪑 Indian Furniture Mart
+Custom furniture e-commerce platform with modern UI.
+
+### 🌸 Fragranzia
+Modern fragrance e-commerce website.
+
+### 🎓 Student Hub
+Student management and collaboration platform.
+
+### 🛒 Kinki Bazar
+Online shopping and product showcase website.
+
+### 🏢 Atherea Agency
+Professional digital agency website.
+
+### 📅 Schedule System
+Smart scheduling and management application.
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_LINK
+- Portfolio: YOUR_PORTFOLIO_LINK
